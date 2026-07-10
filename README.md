@@ -1,4 +1,4 @@
-# Hi, I'm Ayantu Legesse (AyuLG)👋
+# Hi, I'm Ayantu Legesse👋
 
 Frontend Web Developer & Software Engineering Student
 
